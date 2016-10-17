@@ -1,3 +1,4 @@
 db.*
 images
 access_cv_api/*.pyc
+face_detector/*.pyc
